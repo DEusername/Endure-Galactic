@@ -11,7 +11,7 @@ This repository's purpose is for showing off the code I developed for the game. 
 All code in this repository is my own work, and was used for the game Endure Galactic.
 
 You can find the Itch.io page with the game's downloadable here:
-[Endure Galactic]()
+[Endure Galactic](https://duncan-everson.itch.io/endure-galactic)
 
 ---
 
